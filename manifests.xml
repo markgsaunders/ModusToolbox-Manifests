@@ -8,7 +8,7 @@
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version>
-        <num>Latest 1.X release</num>
+        <num>master</num>
         <commit>master</commit>
         <desc>Latest 1.X release</desc>
       </version>
