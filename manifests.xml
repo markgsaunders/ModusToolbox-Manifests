@@ -2,7 +2,7 @@
   <middleware>
     <name>cJSON</name>
     <id>cJSON</id>
-    <uri>https://github.com/markgsaunders/raw/master/cJSON</uri>
+    <uri>https://github.com/markgsaunders/cJSON.git</uri>
     <desc>Ultralightweight JSON parser in ANSI C</desc>
     <category>markgsaunders</category>
     <req_capabilities>psoc6</req_capabilities>
