@@ -1,7 +1,7 @@
 <super-manifest>
   <middleware-manifest-list>
     <middleware-manifest>
-      <uri>https://github.com/markgsaunders/ModusToolbox-Manifests/manifests.xml</uri>
+      <uri>https://raw.githubusercontent.com/markgsaunders/ModusToolbox-Manifests/master/manifests.xml</uri>
     </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
