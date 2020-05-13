@@ -2,15 +2,15 @@
   <middleware>
     <name>cJSON</name>
     <id>cJSON</id>
-    <uri>https://github.com/markgsaunders/cJSON</uri>
+    <uri>https://github.com/markgsaunders/raw/master/cJSON</uri>
     <desc>Ultralightweight JSON parser in ANSI C</desc>
     <category>markgsaunders</category>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version>
-        <num>master</num>
+        <num>v1</num>
         <commit>master</commit>
-        <desc>Latest 1.X release</desc>
+        <desc>version 1</desc>
       </version>
     </versions>
   </middleware>
