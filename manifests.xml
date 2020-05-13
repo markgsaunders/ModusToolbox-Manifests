@@ -9,8 +9,9 @@
     <versions>
       <version>
         <num>Latest 1.X release</num>
-        <commit>latest-v1.X</commit>
+        <commit>master</commit>
         <desc>Latest 1.X release</desc>
+      </version>
       </version>
     </versions>
   </middleware>
