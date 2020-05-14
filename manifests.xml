@@ -8,9 +8,9 @@
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version>
-        <num>v1</num>
+        <num>Unversioned</num>
         <commit>master</commit>
-        <desc>version 1</desc>
+        <desc>Not version controlled repo - always use master</desc>
       </version>
     </versions>
   </middleware>
