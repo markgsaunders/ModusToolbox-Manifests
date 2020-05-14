@@ -10,7 +10,7 @@
       <version>
         <num>v1.0</num>
         <commit>v1.0</commit>
-        <desc>First working repo version - includes cJSON</desc>
+        <desc>Un-modified version of cJSON from WICED 6.4</desc>
       </version>
     </versions>
   </middleware>
