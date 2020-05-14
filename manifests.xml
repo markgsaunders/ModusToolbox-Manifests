@@ -8,14 +8,9 @@
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version>
-        <num>master</num>
+        <num>v1</num>
         <commit>master</commit>
         <desc>Latest repo</desc>
-      </version>
-      <version>
-        <num>v1.0</num>
-        <commit>v1.0</commit>
-        <desc>First working repo</desc>
       </version>
     </versions>
   </middleware>
