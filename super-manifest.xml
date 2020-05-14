@@ -1,8 +1,4 @@
 <super-manifest>
-  <app-manifest-list>
-  </app-manifest-list>
-  <board-manifest-list>
-  </board-manifest-list>
   <middleware-manifest-list>
     <middleware-manifest>
       <uri>https://github.com/markgsaunders/ModusToolbox-Manifests/raw/master/manifests.xml</uri>
