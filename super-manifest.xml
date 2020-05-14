@@ -7,7 +7,8 @@
   </board-manifest-list>
   <middleware-manifest-list>
     <middleware-manifest>
-      <uri>https://raw.githubusercontent.com/markgsaunders/ModusToolbox-Manifests/master/manifests.xml</uri>
+      #<uri>https://raw.githubusercontent.com/markgsaunders/ModusToolbox-Manifests/master/manifests.xml</uri>
+            <uri>https://github.com/markgsaunders/ModusToolbox-Manifests/raw/master/manifests.xml</uri>
     </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
