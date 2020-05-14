@@ -4,11 +4,11 @@
     <id>cJSON</id>
     <uri>https://github.com/markgsaunders/cJSON.git</uri>
     <desc>Ultralightweight JSON parser in ANSI C.</desc>
-    <category>markgsaunders</category>
+    <category>Mark's middleware libraries</category>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version>
-        <num>v1</num>
+        <num>v1.0</num>
         <commit>master</commit>
         <desc>Latest repo</desc>
       </version>
