@@ -3,19 +3,19 @@
     <name>cJSON</name>
     <id>cJSON</id>
     <uri>https://github.com/markgsaunders/cJSON.git</uri>
-    <desc><H1>Ultralightweight JSON parser in ANSI C</H1>Copyright (c) 2009-2017 Dave Gamble and cJSON contributors.</desc>
+    <desc>Ultralightweight JSON parser in ANSI C.</desc>
     <category>markgsaunders</category>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version>
-        <num>v1.0</num>
-        <commit>v1.0</commit>
-        <desc>First working repo</desc>
-      </version>
-      <version>
         <num>master</num>
         <commit>master</commit>
         <desc>Latest repo</desc>
+      </version>
+      <version>
+        <num>v1.0</num>
+        <commit>v1.0</commit>
+        <desc>First working repo</desc>
       </version>
     </versions>
   </middleware>
