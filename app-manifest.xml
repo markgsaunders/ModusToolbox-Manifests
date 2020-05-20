@@ -1,1 +1,10 @@
-
+<apps version="1.0">
+  <app>
+    <name>Weatherstack API Demo</name>
+    <id>Weatherstack</id>
+    <uri>http://git-ore.aus.cypress.com/asset-psoc/apps/blinky-led.git</uri>
+    <commit>master</commit>
+    <description>This is a simple web-enabled weather-reporting application that demonstrates the combination of Infineon PSoC 6 MCU functionality like CapSense with AnyCloud Wi-Fi software libraries.</description>
+    <req_capabilities>psoc6</req_capabilities>
+  </app>
+</apps>
