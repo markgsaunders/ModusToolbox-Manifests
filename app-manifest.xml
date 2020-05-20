@@ -2,7 +2,7 @@
   <app>
     <name>Weatherstack API Demo</name>
     <id>Weatherstack</id>
-    <uri>http://git-ore.aus.cypress.com/asset-psoc/apps/blinky-led.git</uri>
+    <uri>https://github.com/markgsaunders/weatherstackAPI.git</uri>
     <versions>
       <version>
       <num>Latest 1.x</num>
