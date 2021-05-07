@@ -1,6 +1,6 @@
 <apps version="1.0">
   <app>
-    <name>Weatherstack API Demo</name>
+    <name>Weatherstack API Demo2</name>
     <id>Weatherstack</id>
     <uri>https://github.com/markgsaunders/weatherstackAPI.git</uri>
     <versions>
