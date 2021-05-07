@@ -10,7 +10,6 @@
      </version>
     </versions>
     <description>This is a simple web-enabled weather-reporting application that demonstrates the combination of Infineon PSoC 6 MCU functionality like CapSense with AnyCloud Wi-Fi software libraries.</description>
-    <category>FISH</category>
     <req_capabilities>psoc6</req_capabilities>
   </app>
 </apps>
