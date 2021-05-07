@@ -1,6 +1,6 @@
 <apps version="1.0">
   <app>
-    <name>Weatherstack API Demo2</name>
+    <name>Weatherstack API Demo</name>
     <id>Weatherstack</id>
     <uri>https://github.com/markgsaunders/weatherstackAPI.git</uri>
     <versions>
@@ -10,6 +10,7 @@
      </version>
     </versions>
     <description>This is a simple web-enabled weather-reporting application that demonstrates the combination of Infineon PSoC 6 MCU functionality like CapSense with AnyCloud Wi-Fi software libraries.</description>
+    <category>FISH</category>
     <req_capabilities>psoc6</req_capabilities>
   </app>
 </apps>
